@@ -18,3 +18,11 @@
   <a href = "mailto:kauelucena2k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kau%C3%AA-lucena-0a1977278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+<br>
+ ## Visitas no pefil - Atividade
+
+<!-- visitors count  -->
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/kauelucena2k/count.svg" />  
+</p>
