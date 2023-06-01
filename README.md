@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/kau%C3%AA-lucena-0a1977278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 <br>
- ## Visitas no pefil - Atividade
+ Visitas no pefil - Atividade
 
 <!-- visitors count  -->
 
